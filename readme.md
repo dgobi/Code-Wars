@@ -1,6 +1,6 @@
 **Introduction**
 
-My personal solutions for practice Code Wars katas along with my observations and notes. These are used to practice and improve my coding abilities in various languages with a specific focus on JS and Rust.
+My personal solutions for practice Code Wars katas along with my observations and notes. These are used to practice and improve my coding abilities in various languages with a specific focus on JavaScript.
 
 **Disclaimer**
 <ul>
